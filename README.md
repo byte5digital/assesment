@@ -8,4 +8,5 @@
 - [] The code is API-Only
 - [] The code is well-documented
 - [] Commit follow `semantic commit` convention
-- [] Code checkin - 2024/02/22 - 16:00
+- [] Code checkin - 2024/04/18 - 16:00
+- [] Only the promoter part

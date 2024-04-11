@@ -1,4 +1,4 @@
-# Assesment Dima
+# Assesment
 
 ## Technichal Requirements
 

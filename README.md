@@ -11,7 +11,7 @@ Deployment
     - php artisan db:seed --class=PromoterSeeder
 - Start the Laravel development server with php artisan serve.
 
-Documentation und Test functions
+Documentation and Test Functions
 
 - Visit http://127.0.0.1:8000/api/documentation#/ to view the API documentation and test the API.
 

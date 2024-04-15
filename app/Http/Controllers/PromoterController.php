@@ -84,11 +84,11 @@ class PromoterController extends Controller
      *      @OA\JsonContent(
      *          @OA\Property(property="message", type="string", example="Error creating promoter"),
      *          @OA\Property(
-     *     property="Errors",
-     *     type="array",
-     *     @OA\Items(type="string", example="Error message 1"),
-     *      example={"Error message 1", "Error message 2"}
-     *     )
+     *              property="Errors",
+     *              type="array",
+     *              @OA\Items(type="string", example="Error message 1"),
+     *                  example={"Error message 1", "Error message 2"}
+     *          )
      *     )
      * )
      * 
